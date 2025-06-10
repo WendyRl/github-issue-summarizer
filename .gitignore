@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment/config
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Ignore markdown summaries generated
+*_summaries.md
